@@ -1,0 +1,30 @@
+body {
+    background: black;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+.container {
+    margin: 50px auto;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px cyan;
+}
+
+h1 {
+    color: cyan;
+}
+
+h2 {
+    color: yellow;
+}
+
+.project {
+    background: #0d1117;
+    border: 1px solid cyan;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
